@@ -2,7 +2,11 @@
 #
 ## File IO and exceptions
 ### madlib project
-
 #### By Farah Eilouti
+## links and resources: https://github.com/FarahEilouti/madlib-cli/pull/1
+
+### to test this app please run pytest -s 
+
+
 
 #### (pytest tests/test_series.py .) this is how we initialize our app, or (python module/series.py )
